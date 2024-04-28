@@ -4,7 +4,8 @@ Here is the working video of the project:
 
 https://github.com/SrijanRoy14/PortableEye/assets/125462792/2ea187d2-ec08-4244-bd49-608faf900066
 
-The End Node of the PortableEye: 
+The End Node of PortableEye: 
+
 ![EndNode_PortableEye](https://github.com/SrijanRoy14/PortableEye/assets/125462792/69c21828-726f-4ed2-a755-6d65f3fd69d7)
 In near future multiple end nodes can be integrated for a more distributed coverage.
 
